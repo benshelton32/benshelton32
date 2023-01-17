@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-- I'm currently a student at Nashville Software School in Cohort 57 of the Full-Stack Web Development Program
+- I'm a graduate of Nashville Software School from the Full-Stack Web Development Program
 - How to reach me:  
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benshelton32/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benshelton32@gmail.com)
